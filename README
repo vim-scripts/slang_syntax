@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3155
+
+Sytax files for GLSL 400 and GLSL 330
+
+This is based on vimscript#1002, but include new keywords and constructs.
+
+Shows compatibility keywords/functions etc as warnings.
